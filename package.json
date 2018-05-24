@@ -1,5 +1,5 @@
 {
-  "name": "vscode-theme-generator",
+  "name": "@chibicode/vscode-theme-generator",
   "version": "0.0.16",
   "description": "Easily generate themes for VS Code with only a few colors",
   "main": "dist/index.js",
